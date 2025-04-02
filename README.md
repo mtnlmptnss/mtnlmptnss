@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Danya Yen
 
-## 💻 Junior Web Developer | Student at KPI
+## 💻 Web Developer | Student at KPI
 
 I'm a web developer and Computer Engineering student at KPI. I enjoy creating user-friendly websites and solving interesting coding problems. Always excited to learn something new in tech.
 
@@ -55,8 +55,6 @@ I'm a web developer and Computer Engineering student at KPI. I enjoy creating us
 - 📖 Reading helps me grow
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danylo-yen-b96390339/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mtnlmtnss)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mtnlmptnss)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtnlmptnss@gmail.com)
 
