@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Danya Yen
+# Hi there 👋
 
 ## 💻 Web Developer | Student at KPI
 
